@@ -1,6 +1,2 @@
-nombre = input("Ingrese su nombre: ")
-edad = int(input("Ingrese su edad: "))
+print("Hola mundo")
 
-print("El nombre es: " + nombre)
-#print(f"El nombre es: {nombre}")
-print(f"La edad es: {edad}")
